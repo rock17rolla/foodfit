@@ -1,8 +1,8 @@
 Commit:
-feat: split tuna products and improve recipe instructions
+feat: expand recipe coverage for constrained meal-plan scenarios
 
 Tag:
-v2.6.2-beta
+v3.0.0-beta
 
 Release title:
-FoodFit 2.6.2 Beta — Recipes & Tuna
+FoodFit 3.0 Beta — Scenario Coverage Expansion
