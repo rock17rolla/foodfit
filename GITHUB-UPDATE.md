@@ -1,8 +1,8 @@
 Commit:
-feat: add smart portion profiles for macro balancing
+feat: personalize fiber targets and add planning range
 
 Tag:
-v2.6.0-beta
+v2.6.1-beta
 
 Release title:
-FoodFit 2.6 Beta — Smart Portions
+FoodFit 2.6.1 Beta — Personalized Fiber Range
