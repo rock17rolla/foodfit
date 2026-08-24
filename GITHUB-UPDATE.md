@@ -1,8 +1,8 @@
 Commit:
-fix: align recipe names with ingredients and show piece counts
+fix: restore app initialization after recipe catalog update
 
 Tag:
-v2.4.1-beta
+v2.4.2-beta
 
 Release title:
-FoodFit 2.4.1 Beta
+FoodFit 2.4.2 Beta
