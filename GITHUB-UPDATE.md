@@ -1,13 +1,8 @@
-# Публикация FoodFit 2.3.2 Beta
-
 Commit:
-    fix: audit microwave recipes and improve shopping list
+fix: restore app initialization
 
 Tag:
-    v2.3.2-beta
+v2.3.3-beta
 
 Release title:
-    FoodFit 2.3.2 Beta
-
-Описание релиза:
-    скопируйте содержимое RELEASE_NOTES_2.3.2-beta.md
+FoodFit 2.3.3 Beta
