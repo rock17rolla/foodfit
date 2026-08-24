@@ -1,8 +1,8 @@
 Commit:
-feat: personalize fiber targets and add planning range
+feat: split tuna products and improve recipe instructions
 
 Tag:
-v2.6.1-beta
+v2.6.2-beta
 
 Release title:
-FoodFit 2.6.1 Beta — Personalized Fiber Range
+FoodFit 2.6.2 Beta — Recipes & Tuna
