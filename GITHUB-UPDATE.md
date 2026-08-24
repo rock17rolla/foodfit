@@ -1,8 +1,8 @@
 Commit:
-fix: restore planning options and clean recipe ingredients
+feat: expand recipe catalog and improve meal diversity
 
 Tag:
-v2.3.4-beta
+v2.4.0-beta
 
 Release title:
-FoodFit 2.3.4 Beta
+FoodFit 2.4 Beta — Recipe Diversity
