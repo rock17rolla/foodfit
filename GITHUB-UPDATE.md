@@ -1,17 +1,13 @@
-# Публикация FoodFit 2.3.1 Beta
+# Публикация FoodFit 2.3.2 Beta
 
-Загрузите содержимое этой папки в корень существующего репозитория с заменой старых файлов.
+Commit:
+    fix: audit microwave recipes and improve shopping list
 
-**Commit message**
+Tag:
+    v2.3.2-beta
 
-    fix: improve planning periods and recipe UX
+Release title:
+    FoodFit 2.3.2 Beta
 
-**Tag**
-
-    v2.3.1-beta
-
-**Release title**
-
-    FoodFit 2.3.1 Beta
-
-В описание GitHub Release вставьте содержимое `RELEASE_NOTES_2.3.1-beta.md`. GitHub Pages после обновления `main` автоматически опубликует новую версию.
+Описание релиза:
+    скопируйте содержимое RELEASE_NOTES_2.3.2-beta.md
