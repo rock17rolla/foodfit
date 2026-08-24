@@ -1,0 +1,3 @@
+release: FoodFit 2.5.1 Beta
+
+Includes recipe catalog fixes, piece-count display in recipes, application initialization fixes, full-period calorie balancing, and the new period balance summary.
