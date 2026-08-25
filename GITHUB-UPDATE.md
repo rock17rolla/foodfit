@@ -1,8 +1,8 @@
 Commit:
-fix: repair nutrition reference page navigation
+feat: add adaptive cooking instructions by kitchen method
 
 Tag:
-v3.0.3-beta
+v3.1.0-beta
 
 Release title:
-FoodFit 3.0.3 Beta — Nutrition Page Navigation Hotfix
+FoodFit 3.1 Beta — Adaptive Cooking Methods
