@@ -1,8 +1,29 @@
-Commit:
-refactor: validate all recipes against external culinary archetypes
+# Публикация FoodFit 3.3.2 Beta
 
-Tag:
-v3.3.0-beta
+Последняя опубликованная версия: **3.1 Beta**
 
-Release title:
-FoodFit 3.3 Beta — External Culinary Validation
+## Commit
+
+```text
+feat: release FoodFit 3.3.2 Beta with validated adaptive cooking
+```
+
+## Tag
+
+```text
+v3.3.2-beta
+```
+
+## Release title
+
+```text
+FoodFit 3.3.2 Beta
+```
+
+## Release description
+
+Полностью скопируй содержимое файла:
+
+`RELEASE_NOTES_SINCE_3.1.md`
+
+и вставь его в поле **Describe this release** на GitHub.
