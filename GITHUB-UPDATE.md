@@ -1,8 +1,8 @@
 Commit:
-feat: expand recipe coverage for constrained meal-plan scenarios
+fix: repair nutrition reference page navigation
 
 Tag:
-v3.0.0-beta
+v3.0.3-beta
 
 Release title:
-FoodFit 3.0 Beta — Scenario Coverage Expansion
+FoodFit 3.0.3 Beta — Nutrition Page Navigation Hotfix
